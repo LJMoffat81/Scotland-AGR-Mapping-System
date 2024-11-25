@@ -2,7 +2,7 @@
 
 The **Scotland AGR Mapping System** is a Python-based tool developed to calculate Annual Ground Rent (AGR) for all land parcels in Scotland. By providing accurate and transparent AGR valuations, this system aims to replace traditional taxes on production and capital, supporting fair land reform and promoting sustainable economic development.
 
-This project is sponsored by the [Scottish Land Revenue Group (SLRG)](https://www.slrg.org.uk).
+This project is sponsored by the [Scottish Land Revenue Group (SLRG)](https://www.slrg.scot).
 
 ## Features
 - **Dynamic Grid Management:** Utilises the What3Words API to divide land parcels into easily identifiable units.
@@ -14,7 +14,7 @@ This project is sponsored by the [Scottish Land Revenue Group (SLRG)](https://ww
 
 Annual Ground Rent (AGR) is an innovative system of land valuation that replaces traditional taxes. AGR captures the value of land as a shared natural resource, ensuring this wealth is returned to the community while reducing inequality and encouraging sustainable land use.
 
-For more information, visit the [Scottish Land Revenue Group](https://www.slrg.org.uk).
+For more information, visit the [Scottish Land Revenue Group](https://www.slrg.scot).
 
 ## Project Structure
 ```
